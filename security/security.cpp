@@ -34,9 +34,6 @@ int QuitMe()
 
 int main()
 {
-    string from_crypt{ "KKT" };
-    string crypted{ from_crypt };//Input crypted string (Input some crypt code like AES, SHA256, BCRYPT, etc..)
-    string encrypted{};//Input crypted string (Input some crypt code like AES, SHA256, BCRYPT, etc..)
 
     int frst_value = { 1 };//Using for if/else check
     int sec_value = { 2 };//Using for if/else check
